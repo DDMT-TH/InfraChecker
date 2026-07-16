@@ -1,0 +1,134 @@
+{
+    "192.168.1.10": {
+        "name": "Core Switch (Allied Telesis x510L)",
+        "status": "ONLINE"
+    },
+    "192.168.1.50": {
+        "name": "Switch Office F#1",
+        "status": "ONLINE"
+    },
+    "192.168.1.52": {
+        "name": "Switch Guardhouse",
+        "status": "ONLINE"
+    },
+    "192.168.1.51": {
+        "name": "Switch Server Room (Top)",
+        "status": "ONLINE"
+    },
+    "192.168.1.60": {
+        "name": "Switch Server Room (Bottom)",
+        "status": "ONLINE"
+    },
+    "192.168.1.54": {
+        "name": "Switch Canteen",
+        "status": "ONLINE"
+    },
+    "192.168.1.58": {
+        "name": "Switch Sorting",
+        "status": "ONLINE"
+    },
+    "192.168.1.55": {
+        "name": "Switch Melting (Top)",
+        "status": "ONLINE"
+    },
+    "# 192.168.1.56": {
+        "name": "Switch Melting (Bottom)",
+        "status": "OFFLINE"
+    },
+    "192.168.1.64": {
+        "name": "Switch Melting-3",
+        "status": "ONLINE"
+    },
+    "192.168.1.65": {
+        "name": "Switch Melting-4",
+        "status": "ONLINE"
+    },
+    "192.168.1.57": {
+        "name": "Switch QC",
+        "status": "ONLINE"
+    },
+    "192.168.1.59": {
+        "name": "Switch HMS",
+        "status": "ONLINE"
+    },
+    "192.168.1.61": {
+        "name": "Switch Rear Wall",
+        "status": "ONLINE"
+    },
+    "192.168.1.53": {
+        "name": "Switch Warehouse",
+        "status": "ONLINE"
+    },
+    "192.168.1.66": {
+        "name": "Switch Dross Factory",
+        "status": "ONLINE"
+    },
+    "192.168.1.44": {
+        "name": "Switch Finger Scan",
+        "status": "ONLINE"
+    },
+    "192.168.1.73": {
+        "name": "AP Office_FL1.1",
+        "status": "ONLINE"
+    },
+    "192.168.1.74": {
+        "name": "AP Office_FL1.2",
+        "status": "ONLINE"
+    },
+    "192.168.1.70": {
+        "name": "AP Office_FL1.Meeting",
+        "status": "ONLINE"
+    },
+    "192.168.1.75": {
+        "name": "AP Office_FL2.1",
+        "status": "ONLINE"
+    },
+    "192.168.1.76": {
+        "name": "AP Office_FL2.2",
+        "status": "ONLINE"
+    },
+    "192.168.1.77": {
+        "name": "AP Sorting",
+        "status": "ONLINE"
+    },
+    "192.168.1.79": {
+        "name": "AP Maintenance",
+        "status": "ONLINE"
+    },
+    "192.168.1.78": {
+        "name": "AP Melting Office",
+        "status": "ONLINE"
+    },
+    "192.168.1.72": {
+        "name": "AP QC",
+        "status": "ONLINE"
+    },
+    "192.168.1.69": {
+        "name": "AP HMS",
+        "status": "ONLINE"
+    },
+    "192.168.1.71": {
+        "name": "AP Warehouse",
+        "status": "ONLINE"
+    },
+    "192.168.1.62": {
+        "name": "Ruijie NBS3100-8GT2SFP-P-V2  Melting-1 Spare",
+        "status": "ONLINE"
+    },
+    "192.168.1.63": {
+        "name": "Ruijie NBS3100-8GT2SFP-P-V2  Melting-2 Spare",
+        "status": "ONLINE"
+    },
+    "192.168.1.105": {
+        "name": "DDTSVR01",
+        "status": "ONLINE"
+    },
+    "192.168.1.106": {
+        "name": "DDTSVR01",
+        "status": "ONLINE"
+    },
+    "192.168.1.107": {
+        "name": "DDTSVR02",
+        "status": "OFFLINE"
+    }
+}

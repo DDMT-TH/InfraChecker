@@ -31,7 +31,7 @@
         "name": "Switch Melting (Top)",
         "status": "ONLINE"
     },
-    "# 192.168.1.56": {
+    "192.168.1.56": {
         "name": "Switch Melting (Bottom)",
         "status": "OFFLINE"
     },
@@ -129,6 +129,26 @@
     },
     "192.168.1.107": {
         "name": "DDTSVR02",
-        "status": "OFFLINE"
+        "status": "ONLINE"
+    },
+    "192.168.1.100": {
+        "name": "Ricoh IM C2010 HR",
+        "status": "ONLINE"
+    },
+    "192.168.1.101": {
+        "name": "Ricoh IM C2010 QC",
+        "status": "ONLINE"
+    },
+    "192.168.1.102": {
+        "name": "Ricoh IM C2010 Melting",
+        "status": "ONLINE"
+    },
+    "192.168.1.103": {
+        "name": "Ricoh IM C2010 ACC",
+        "status": "ONLINE"
+    },
+    "192.168.10.96": {
+        "name": "Ricoh Warehouse",
+        "status": "ONLINE"
     }
 }
